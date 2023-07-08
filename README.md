@@ -1,5 +1,5 @@
 # magento-countdown-timer
-The Countdown Timer extension for Magento 2 allows to create a countdown timer for any campaign, on special products or offers. It brings efficiency to the store and enhances the shopping experience significantly.
+Magento 2 Countdown Timer extension allows you to set up a countdown timer for any campaign, on specific products or deals. It boosts the store’s performance and enhances the shopping experience greatly.
 
 Please go to https://magehq.com/countdown-timer.html buy extension
 
